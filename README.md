@@ -26,10 +26,9 @@
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
-<hr>
 
+<hr>
 <h3>📚 Our Blogs</h3>
-<p>
 <a target="_blank" href="www.cyberflake.codes">01.	Hacking: What It Is and How to Protect Yourself</a><br>
 <a target="_blank" href="www.cyberflake.codes">02.	Types of Hackers: Understanding the Different Motivations and Methods</a><br>
 <a target="_blank" href="www.cyberflake.codes">03.	White Hat vs Black Hat: Understanding the Difference between Ethical and Malicious Hacking</a><br>
