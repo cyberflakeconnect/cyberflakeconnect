@@ -26,7 +26,7 @@
 <br>
 <br>
 <hr>
-<h3>Online Presence</h3>
+<h3>🌐 Online Presence</h3>
 <p>
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.codes</a><br>
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
@@ -35,7 +35,7 @@
 </p>
 
 <hr>
-<h3>📚 Blogs To Read</h3>
+<h3>📚 Our Blogs</h3>
 
 <p>
 <a target="_blank" href="www.cyberflake.codes">1.	Hacking: What It Is and How to Protect Yourself</a><br>
