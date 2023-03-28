@@ -5,10 +5,10 @@
 <h3>Online Presence</h3>
 
 <p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
-<a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
-<a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
-<a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
-<a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
+<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
+<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
+<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
+<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
 
 <h3>Cloud Infra Services</h3>
 
