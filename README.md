@@ -1,5 +1,10 @@
 <h1>Cyberflake.codes</h1>
+<p>
 "Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
+</p>
+<p>
+"Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
+</p>
 
 <br>
 <hr>
@@ -19,6 +24,7 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </p>
+<br>
 <br>
 <hr>
 <h3>Online Presence</h3>
