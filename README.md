@@ -22,12 +22,14 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
 </p>
 
+<p>
 <hr>
 <h3>👨🏻‍💻 Online Presence</h3>
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.codes</a><br>
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
+</p>
 
 <hr>
 <h3>📚 Our Blogs</h3>
