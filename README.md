@@ -7,7 +7,7 @@
 </p>
 
 <hr>
-<h3>Cloud Infra Services</h3>
+<h3>👨🏻‍💻 Infra Services</h3>
 <p>
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
