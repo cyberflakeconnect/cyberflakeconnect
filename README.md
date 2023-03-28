@@ -7,6 +7,7 @@
 </p>
 
 <hr>
+<div>
 <h3>👨🏻‍💻 Infra Services</h3>
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -23,6 +24,7 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br>
 <br>
+</div>
 
 <hr>
 <h3>🌐 Online Presence</h3>
