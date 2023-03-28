@@ -26,6 +26,7 @@
 <br>
 </div>
 
+<div>
 <hr>
 <h3>🌐 Online Presence</h3>
 <br>
@@ -35,7 +36,8 @@
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
 </p>
-
+</div>
+ 
 <hr>
 <h3>📚 Our Blogs</h3>
 
