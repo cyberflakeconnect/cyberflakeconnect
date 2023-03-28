@@ -3,12 +3,12 @@
 
 <script src="https://kit.fontawesome.com/06f10bdafa.js" crossorigin="anonymous"></script>
 <h3>Online Presence</h3>
-
-<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
-<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
-<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
-<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
-<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
+<p>
+ <a target="_blank" href="www.cyberflake.codes">cyberflake.codes</a><br>
+ <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">facebook.com/cyberflakeconnect/</a><br>
+ <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">instagram.com/cyberflakeconnect/</a><br>
+ <a target="_blank" href="https://twitter.com/cyberflakeconn">twitter.com/cyberflakeconn</a><br>
+</p>
 
 <h3>Cloud Infra Services</h3>
 
