@@ -1,6 +1,8 @@
 <h1>Cyberflake.codes</h1>
 "Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
 
+<br>
+<hr>
 <h3>Cloud Infra Services</h3>
 
 <p>
@@ -20,6 +22,7 @@
 </p>
 
 <br>
+<hr>
 <h3>Online Presence</h3>
 
 <p>
@@ -29,5 +32,20 @@
  <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
 </p>
 
+<br>
+<hr>
+<h3>📚 Blogs To Read</h3>
 
+<p>
+<a target="_blank" href="www.cyberflake.codes">1	Hacking: What It Is and How to Protect Yourself</a><br>
+<a target="_blank" href="www.cyberflake.codes">2	Types of Hackers: Understanding the Different Motivations and Methods</a><br>
+<a target="_blank" href="www.cyberflake.codes">3	White Hat vs Black Hat: Understanding the Difference between Ethical and Malicious Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">4	Grey Hat Hacking: The Middle Ground Between White Hat and Black Hat</a><br>
+<a target="_blank" href="www.cyberflake.codes">5	Top 5 Hackers Group in World</a><br>
+<a target="_blank" href="www.cyberflake.codes">6	OS to be used for Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">7	Kali Linux: The Ultimate Operating System for Ethical Hackers and Security Researchers</a><br>
+<a target="_blank" href="www.cyberflake.codes">8	Live Operating System : A method to create disposable OS</a><br>
+<a target="_blank" href="www.cyberflake.codes">9	Hacking : Lets discuss different stages of Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">10	Reconnaissance : It starts from here</a><br>
+</p>
           
