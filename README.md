@@ -7,7 +7,6 @@
 </p>
 
 <hr>
-<div>
 <h3>👨🏻‍💻 Infra Services</h3>
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -22,16 +21,13 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<br>
 
-</div>
-
-<div>
-###🌐 Online Presence<
+###🌐 Online Presence
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.codes</a><br>
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
- <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br
-</div>
+ <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
  
 <hr>
 <h3>📚 Our Blogs</h3>
