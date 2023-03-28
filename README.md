@@ -4,7 +4,6 @@
 <br>
 <hr>
 <h3>Cloud Infra Services</h3>
-
 <p>
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -21,17 +20,14 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </p>
 <br>
-<br>
 <hr>
 <h3>Online Presence</h3>
-
 <p>
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.codes</a><br>
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://twitter.com/cyberflakeconn">🌐 twitter.com/cyberflakeconn</a><br>
 </p>
-
 <br>
 <hr>
 <h3>📚 Blogs To Read</h3>
