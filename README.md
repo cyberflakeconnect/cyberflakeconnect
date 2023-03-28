@@ -40,15 +40,15 @@
 <h3>📚 Our Blogs</h3>
 
 <p>
-<a target="_blank" href="www.cyberflake.codes">1.	Hacking: What It Is and How to Protect Yourself</a><br>
-<a target="_blank" href="www.cyberflake.codes">2.	Types of Hackers: Understanding the Different Motivations and Methods</a><br>
-<a target="_blank" href="www.cyberflake.codes">3.	White Hat vs Black Hat: Understanding the Difference between Ethical and Malicious Hacking</a><br>
-<a target="_blank" href="www.cyberflake.codes">4.	Grey Hat Hacking: The Middle Ground Between White Hat and Black Hat</a><br>
-<a target="_blank" href="www.cyberflake.codes">5.	Top 5 Hackers Group in World</a><br>
-<a target="_blank" href="www.cyberflake.codes">6.	OS to be used for Hacking</a><br>
-<a target="_blank" href="www.cyberflake.codes">7.	Kali Linux: The Ultimate Operating System for Ethical Hackers and Security Researchers</a><br>
-<a target="_blank" href="www.cyberflake.codes">8.	Live Operating System : A method to create disposable OS</a><br>
-<a target="_blank" href="www.cyberflake.codes">9.	Hacking : Lets discuss different stages of Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">01.	Hacking: What It Is and How to Protect Yourself</a><br>
+<a target="_blank" href="www.cyberflake.codes">02.	Types of Hackers: Understanding the Different Motivations and Methods</a><br>
+<a target="_blank" href="www.cyberflake.codes">03.	White Hat vs Black Hat: Understanding the Difference between Ethical and Malicious Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">04.	Grey Hat Hacking: The Middle Ground Between White Hat and Black Hat</a><br>
+<a target="_blank" href="www.cyberflake.codes">05.	Top 5 Hackers Group in World</a><br>
+<a target="_blank" href="www.cyberflake.codes">06.	OS to be used for Hacking</a><br>
+<a target="_blank" href="www.cyberflake.codes">07.	Kali Linux: The Ultimate Operating System for Ethical Hackers and Security Researchers</a><br>
+<a target="_blank" href="www.cyberflake.codes">08.	Live Operating System : A method to create disposable OS</a><br>
+<a target="_blank" href="www.cyberflake.codes">09.	Hacking : Lets discuss different stages of Hacking</a><br>
 <a target="_blank" href="www.cyberflake.codes">10.	Reconnaissance : It starts from here</a><br>
 </p>
           
