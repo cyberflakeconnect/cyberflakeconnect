@@ -19,6 +19,7 @@
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </p>
 
+<br>
 <h3>Online Presence</h3>
 
 <p>
