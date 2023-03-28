@@ -26,8 +26,7 @@
 </div>
 
 <div>
-<hr>
-<h3>🌐 Online Presence</h3>
+###🌐 Online Presence<
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.codes</a><br>
  <a target="_blank" href="https://www.facebook.com/cyberflakeconnect/">🌐 facebook.com/cyberflakeconnect/</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
