@@ -1,9 +1,10 @@
 <h1>Cyberflake.codes</h1>
 "Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
 
+<script src="https://kit.fontawesome.com/06f10bdafa.js" crossorigin="anonymous"></script>
 <h3>Online Presence</h3>
 
-<a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
+<p><i class="fa-brands fa-square-instagram color_white"></i> <a target="_blank" href="www.cyberflake.codes/">cyberflake.codes</a></p>
 <a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
 <a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
 <a target="_blank" href="http://cyberflake.codes/">cyberflake.codes</a>
