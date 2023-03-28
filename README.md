@@ -1,6 +1,5 @@
 <h1>Cyberflake.codes</h1>
-![Cyberflake Logo](https://user-images.githubusercontent.com/61092093/228321423-4e4bad2d-7bec-42ef-9053-e47aac153905.png)
-
+<img src="https://user-images.githubusercontent.com/61092093/228321423-4e4bad2d-7bec-42ef-9053-e47aac153905.png">
 Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
 
 Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
