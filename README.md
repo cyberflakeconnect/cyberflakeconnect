@@ -7,9 +7,8 @@
 
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" />
 
-<img align="left" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-       
 
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
