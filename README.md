@@ -1,4 +1,5 @@
-<h1><img width="40px" src="https://user-images.githubusercontent.com/61092093/228322379-4024bcb9-19cc-4e15-8782-6d25b8c7538a.png"> Cyberflake.codes</h1>
+<h1><img width="40px" src="https://user-images.githubusercontent.com/61092093/228323287-27d26eb2-d404-47ea-a931-836dd4e36e0e.png"> Cyberflake.codes</h1>
+<img width="40px" src="https://user-images.githubusercontent.com/61092093/228323287-27d26eb2-d404-47ea-a931-836dd4e36e0e.png">
 
 Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
 
