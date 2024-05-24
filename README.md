@@ -14,7 +14,7 @@ Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubun
 <p>
 <br>
 <h3>👨🏻‍💻 Online Presence</h3>
- <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.net</a><br>
+ <a target="_blank" href="www.cyberflake.net">🌐 cyberflake.net</a><br>
  <a target="_blank" href="https://www.instagram.com/cyberflakeconnect/">🌐 instagram.com/cyberflakeconnect/</a><br>
 </p>
           
