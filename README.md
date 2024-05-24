@@ -3,8 +3,6 @@
 
 Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
 
-Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
-
 <hr>
 <p>
 <h3>👨🏻‍💻 Infra Services</h3>
@@ -18,10 +16,6 @@ Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubun
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </p>
-<br>
-<br>
-
-<hr>
 <p>
 <h3>👨🏻‍💻 Online Presence</h3>
  <a target="_blank" href="www.cyberflake.codes">🌐 cyberflake.net</a><br>
