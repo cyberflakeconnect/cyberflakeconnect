@@ -6,23 +6,33 @@ Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubun
 
 <table>
   <tr>
+    <th></th>
+    <th>Platform</th>
+    <th>URL</th>
+    <th>Content Types</th>
+  </tr>
+  <tr>
+    <td><img src="website-48.png"></td>
     <td>Website</td>
     <td><a href="https://cyberflake.net/">www.cyberflake.net</a></td>
-    <td></td>
+    <td>Blogs</td>
   </tr>
   <tr>
+    <td><img src="instagram-48.png"></td>
     <td>Instagram</td>
     <td><a href="https://www.instagram.com/cyberflakeconnect/">@cyberflakeconnect</a></td>
-    <td></td>
+    <td>Memes</td>
   </tr>
   <tr>
+    <td><img src="github-48.png"></td>
     <td>Github</td>
     <td><a href="https://github.com/cyberflakeconnect">@cyberflakeconnect</a></td>
-    <td></td>
+    <td>Code Snippet</td>
   </tr>
   <tr>
+    <td><img src="youtube-48.png"></td>
     <td>YouTube</td>
     <td><a href="https://www.youtube.com/@cyberflakeconnect">@cyberflakeconnect</a></td>
-    <td></td>
+    <td>Shorts</td>
   </tr>
 </table>
