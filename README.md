@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="bootstrap5.css">
+
 <img style="max-width:100%" src="ascaii_art.png">
 
 <h1>Hello Techie !!</h1>
@@ -14,7 +16,7 @@ Welcome to Cyberflake's GitHub repository your comprehensive guide to the world 
   </tr>
   <tr>
     <td> <img src="website-24.png"> </td>
-    <td><a target="_blank" href="https://cyberflake.net/">Website</a></td>
+    <td><a class="btn btn-primary" target="_blank" href="https://cyberflake.net/">Website</a></td>
     <td>Blogs</td>
   </tr>
   <tr>
