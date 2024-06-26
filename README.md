@@ -1,6 +1,6 @@
 <h1>Hello Techie !!</h1>
 
-Welcome to Cyberflake, your comprehensive guide to the world of Linux, AWS, Ubuntu, Cloud, Redhat, DevOps, Nginx, and other server administration services. We are a community of freelancer system administrators, tech enthusiasts, and noobs who share their passion for technology through insightful and informative blog posts.
+Welcome to Cyberflake's GitHub repository your comprehensive guide to the world of Linux, AWS, Ubuntu, Redhat, DevOps, Nginx and other server administration services we are a community of Freelancers, System Administrators, Tech Enthusiasts and Noobs who share their passion for technology through insightful and informative code contributions here you'll find a collection of scripts configurations and projects designed to simplify and enhance your server administration tasks feel free to explore contribute and collaborate with us on our journey to make technology more accessible and efficient for everyone.
 
 <h2>Connect Us</h2>
 
