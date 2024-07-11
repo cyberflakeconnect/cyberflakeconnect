@@ -1,5 +1,12 @@
-<img style="max-width:100%" src="ascaii_art.png">
-<h1>Hello Techie !!</h1>
+<pre>
+  ____      _                __ _       _        
+ / ___|   _| |__   ___ _ __ / _| | __ _| | _____ 
+| |  | | | | '_ \ / _ \ '__| |_| |/ _` | |/ / _ \
+| |__| |_| | |_) |  __/ |  |  _| | (_| |   <  __/
+ \____\__, |_.__/ \___|_|  |_| |_|\__,_|_|\_\___|
+      |___/
+ </pre>
+ <h1>Hello Techie !!</h1>
 
 Welcome to Cyberflake's GitHub repository your comprehensive guide to the world of Linux, AWS, Ubuntu, Redhat, DevOps, Nginx and other server administration services we are a community of Freelancers, System Administrators, Tech Enthusiasts and Noobs who share their passion for technology through insightful and informative code contributions here you'll find a collection of scripts configurations and projects designed to simplify and enhance your server administration tasks feel free to explore contribute and collaborate with us on our journey to make technology more accessible and efficient for everyone.
   
